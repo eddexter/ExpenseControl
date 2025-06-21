@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Tipo__c</fullName>
+    <description>Tipo de despesa</description>
+    <inlineHelpText>Tipo de despesa</inlineHelpText>
+    <label>Tipo</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>TipoDespesa</valueSetName>
+    </valueSet>
+</CustomField>
