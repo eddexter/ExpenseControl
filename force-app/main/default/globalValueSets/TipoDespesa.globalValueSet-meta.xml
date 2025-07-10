@@ -65,6 +65,16 @@
         <default>false</default>
         <label>Estacionamento</label>
     </customValue>
+    <customValue>
+        <fullName>Aéreo</fullName>
+        <default>false</default>
+        <label>Aéreo</label>
+    </customValue>
+    <customValue>
+        <fullName>Rodoviário</fullName>
+        <default>false</default>
+        <label>Rodoviário</label>
+    </customValue>
     <description>Conjunto de valores de tipos de despesa</description>
     <masterLabel>Tipo de despesa</masterLabel>
     <sorted>true</sorted>

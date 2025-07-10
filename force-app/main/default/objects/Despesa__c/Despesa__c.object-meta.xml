@@ -161,7 +161,13 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Despesas</pluralLabel>
-    <searchLayouts></searchLayouts>
+    <searchLayouts>
+        <searchResultsAdditionalFields>Tipo__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Nome__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Data__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Valor__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Carteira__c</searchResultsAdditionalFields>
+    </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
