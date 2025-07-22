@@ -15,6 +15,8 @@
     <tabs>DespesasMobilePage</tabs>
     <tabs>Despesa__c</tabs>
     <tabs>Carteira__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Controle_de_Despesas_UtilityBar1</utilityBar>
 </CustomApplication>

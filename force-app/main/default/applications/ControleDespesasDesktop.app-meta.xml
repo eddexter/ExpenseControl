@@ -22,6 +22,8 @@
     <tabs>standard-home</tabs>
     <tabs>Despesa__c</tabs>
     <tabs>Carteira__c</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Controle_de_despesas_UtilityBar</utilityBar>
 </CustomApplication>
